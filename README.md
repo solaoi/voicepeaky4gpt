@@ -6,6 +6,8 @@
 
 This is a server to use voicepeak as api.
 
+By using openAI's API, emotions, voice pitch, and speed are automatically adjusted.
+
 ## Requirements
 
 - [VOICEPEAK 商用可能 6ナレーターセット](https://www.ah-soft.com/voice/6nare/index.html)
@@ -16,7 +18,7 @@ This is a server to use voicepeak as api.
 ### Serve
 
 ```sh
-voicepeaky4gpt -k [OpenAI Key] -s
+voicepeaky4gpt -k [OpenAI Key] -s -n "Japanese Female Child"
 ```
 
 Option is below.
