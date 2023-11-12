@@ -3,6 +3,7 @@
 [![license](https://img.shields.io/github/license/solaoi/voicepeaky4gpt)](https://github.com/solaoi/voicepeaky4gpt/blob/main/LICENSE)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/solaoi/voicepeaky4gpt)](https://github.com/solaoi/voicepeaky4gpt/releases)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/solaoi?color=db61a2)](https://github.com/sponsors/solaoi)
+![MacOs](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
 
 This is a server to use voicepeak as api.
 
